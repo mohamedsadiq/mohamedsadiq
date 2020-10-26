@@ -7,7 +7,8 @@ Hi this is Mohamed Sadiq, a product designer, I help clients to build a successf
  🌱 I’m currently learning React js
 <br>
  📫 How to reach me: ...
- https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+[https://img.shields.io/badge/fsdfs-fd-brightgreen]
+
 twitter [https://img.shields.io/twitter/follow/Mohamedsadiq_?label=Follow&style=social]
  
 <!--
