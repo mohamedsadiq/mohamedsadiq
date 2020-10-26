@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+###
+Hi this is Mohamed Sadiq, a product designer, I help clients to build a successful digital products, freelancer
+ 🌱 I’m currently learning ... React js
+ 
+ 📫 How to reach me: ...
+ 
 <!--
 **mohamedsadiq/mohamedsadiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
