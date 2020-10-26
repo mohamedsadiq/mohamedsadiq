@@ -8,6 +8,10 @@ Hi this is Mohamed Sadiq, a product designer, I help clients to build a successf
 <br>
  📫 How to reach me: ...
  
+ [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
+ 
 <!--
 **mohamedsadiq/mohamedsadiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
