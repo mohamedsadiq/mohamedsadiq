@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ###
-Hi this is Mohamed Sadiq, a product designer, I help clients to build a successful digital products, freelancer
+Hi this is Mohamed Sadiq, a product designer, I help clients to build a successful digital products, <br>
  🌱 I’m currently learning ... React js
  
  📫 How to reach me: ...
