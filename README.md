@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 ###
-Hi this is Mohamed Sadiq, a product designer, I help clients to build a successful digital products, <br>
- 🌱 I’m currently learning ... React js
- 
+Hi this is Mohamed Sadiq, a product designer, I help clients to build a successful digital products,
+<br>
+ 🌱 I’m currently learning React js
+<br>
  📫 How to reach me: ...
  
 <!--
