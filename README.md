@@ -7,9 +7,9 @@ Hi this is Mohamed Sadiq, a product designer, I help clients to build a successf
  🌱 I’m currently learning React js
 <br>
  📫 How to reach me: ...
- ![Twitter](https://img.shields.io/badge/fsdfs-fd-brightgreen)
+ ![Twitter](https://img.shields.io/twitter/follow/Mohamedsadiq_?label=Follow&style=social)
 
-twitter [https://img.shields.io/twitter/follow/Mohamedsadiq_?label=Follow&style=social]
+
  
 <!--
 **mohamedsadiq/mohamedsadiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
