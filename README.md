@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-###
-Hi this is Mohamed Sadiq, a product designer, I help clients to build a successful digital products,
-<br>
- <br>
+
 
 
  
