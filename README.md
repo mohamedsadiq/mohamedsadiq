@@ -6,9 +6,6 @@ Hi this is Mohamed Sadiq, a product designer, I help clients to build a successf
  <br>
  🌱 I’m currently learning React js
 <br>
- 📫 How to reach me: <br>
- <br>
-!![https://twitter.com/Mohamedsadiq_](https://img.shields.io/twitter/follow/Mohamedsadiq_?style=social)
 
 
  
