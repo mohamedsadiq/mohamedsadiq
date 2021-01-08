@@ -6,7 +6,7 @@
 
 This is my website :  [mohamedsadiq.com](https://mohamedsadiq.com/ "mohamedsadiq.com")
 
-reach me at <hey@mohamedsadiq.com/>
+Reach out to me at  <hey@mohamedsadiq.com/>
 
 ### Currently
 *  Product designer ( freelancer )
