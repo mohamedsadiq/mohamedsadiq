@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-!()[https://i.ibb.co/Ch9Kh3w/desk.png]
+![](https://i.ibb.co/Ch9Kh3w/desk.png)
 
 
  
