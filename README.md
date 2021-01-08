@@ -5,7 +5,9 @@
 ### Hi, I'm Mohamed Sadiq, Most of the time, I design user experienes. people often simply call them websites, applications, or platforms
 
 This is my website :  [mohamedsadiq.com](https://mohamedsadiq.com/ "mohamedsadiq.com")
+
 reach me at <hey@mohamedsadiq.com/>
+
 ### Currently
 *  Product designer ( freelancer )
 ### Previously
