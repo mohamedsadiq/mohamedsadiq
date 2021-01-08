@@ -4,13 +4,13 @@
 
 ### Hi, I'm Mohamed Sadiq, Most of the time, I design user experienes. people often simply call them websites, applications, or platforms
  
-## Currently
-Product designer ( freelancer )
-## Previously
-Lead of product design at Mass
-web designer at Shift
-Freelancer web designer
-Studied Mechanical Power Engineering
+### Currently
+*  Product designer ( freelancer )
+### Previously
+*  Lead of product design at Mass
+*  web designer at Shift
+*  Freelancer web designer
+*  Studied Mechanical Power Engineering
 
 <!--
 **mohamedsadiq/mohamedsadiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
