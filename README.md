@@ -1,10 +1,11 @@
 ## Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"  width="30" >
 
-<span>
+<span >
   <a href="https://twitter.com/Mohamedsadiq_">
     <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"  width="20" />
   </a>
 </span>
+
 <span>
   <a href="https://www.instagram.com/_mohamedsadiq/">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"  width="20" />
@@ -89,7 +90,6 @@ Languages and Tools:
   </a>
 </span>
 
-https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 ## GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohamedsadiq)](https://github.com/anuraghazra/github-readme-stats)
 
