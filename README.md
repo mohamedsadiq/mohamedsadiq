@@ -5,10 +5,10 @@
 
 I'm a product designer who can code. I'm interested in interaction Design, Prototypeing, web3, and bulding open source software.
 
-I'm currently doing some product designe at developer_dao to accelerate the education and impact of a new wave of web3 builders.
+I'm currently doing some product designe at [developerDAO](https://developerdao.com/) to accelerate the education and impact of a new wave of web3 builders.
 
 Previously, I worked at Mass as a lead product designer.
 
 
-My personal website [Link](https://serene-bassi-ee5cea.netlify.app/)
+My personal website [Link](https://serene-bassi-ee5cea.netlify.app/) <br>
 @sadiq_moo on Twitter [Link](https://twitter.com/sadiq_moo)
