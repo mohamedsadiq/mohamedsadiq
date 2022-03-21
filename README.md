@@ -10,5 +10,5 @@ I'm currently doing some product designe at developer_dao to accelerate the educ
 Previously, I worked at Mass as a lead product designer.
 
 
-My personal website Link[https://serene-bassi-ee5cea.netlify.app/]
-@sadiq_moo on Twitter [https://twitter.com/sadiq_moo]
+My personal website [Link](https://serene-bassi-ee5cea.netlify.app/)
+@sadiq_moo on Twitter [Link](https://twitter.com/sadiq_moo)
