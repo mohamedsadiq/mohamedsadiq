@@ -3,7 +3,7 @@
 
  Hello, I’m Mohamed Sadiq.
 
-I'm a product designer who can code. I'm interested in interaction Design, Prototyping, web3, and building open-source software.
+I'm a product designer who can code. I'm interested in web3, interaction Design, Prototyping, and building open-source software.
 
 I'm currently doing some product design at [developerDAO](https://developerdao.com/) to accelerate the education and impact of a new wave of web3 builders.
 
