@@ -9,8 +9,8 @@ DeveloperDAO FM: A community project I built for DeveloperDAO that also hit the 
 DAOs Spot: A discovery platform for DAOs, honored as Product Hunt’s #4 Product of the Week.
 
 Ultimately, I'm just a person who gets a huge kick out of building tools that solve real problems and help innovative communities thrive.
-
 <br>
+
 **Website:** [mosadiq.com](https://www.mosadiq.com) <br>
 **X.com:** [@mosadiq](https://x.com/sadiq_moo) <br>
 **Side Projects:** [BOI](https://www.boimaginations.com/)
